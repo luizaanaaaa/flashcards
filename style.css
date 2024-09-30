@@ -2,6 +2,7 @@ body{
    background-color: rgb(41, 190, 190);
 }
 
+
 footer {
     background-color: black;
     color: white;
@@ -10,3 +11,18 @@ footer {
     width: 100%;
     height: 2rem;
 }
+
+
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
+
+
+body {
+    background-color: bisque;
+    font-family: Bai Jamjuree;
+}
+
+
