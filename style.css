@@ -26,3 +26,19 @@ body {
 }
 
 
+#container{
+    display:flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+}
+
+
+<h3>Programação</h3>
+<div class="cartao_conteudo_pergunta">
+    O que é JavaScript?
+</div>
+<div class="cartao_conteudo_resposta">
+    O JavaScript é uma linguagem de programação
+</div>
